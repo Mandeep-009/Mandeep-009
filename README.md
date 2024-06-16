@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### About me✨
-- I am Mandeep, a Second year CSE Undergrad at Maharaja Agrasen Institute of Technology. As an aspiring computer science engineer I want to add value to the world.
+- I am Mandeep, a Third year CSE Undergrad at Maharaja Agrasen Institute of Technology. As an aspiring computer science engineer I want to add value to the world.
 - I am looking forward to improving my development skills to solve real world problems and making Open Source contributions.
 
 ### Programming Languages👨‍💻
